@@ -1,0 +1,10 @@
+name: LnwzaHorse
+version: '${project.version}'
+main: lnwwaveza008.lnwzahorse.LnwzaHorse
+api-version: 1.18
+authors: [ lnwwaveza008 ]
+description: Create your own horse that be with you until the death come!
+commands:
+  lnwzahorse:
+      description: Use lnwzahorse's commands
+      usage: /<command>
